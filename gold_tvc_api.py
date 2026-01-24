@@ -202,7 +202,7 @@ if __name__ == "__main__":
 
     # Variables iniciales
     # -------------------
-    SYMBOL: str = "GOLD!"
+    SYMBOL: str = "GOLD"
     EXCHANGE: str = "TVC"
     # -------------------
     
